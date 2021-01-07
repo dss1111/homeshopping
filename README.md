@@ -1,14 +1,26 @@
-# homeshopping
-homeshopping_simulator
+# homeshopping_simulator
+
+## Overview
 
 홈쇼핑 시뮬레이터. 
 
 콘솔로 작동하며 키보드를 통해 메뉴 조작, 현재 커서위치는 빨간색 글씨로 표시.
 데이터베이스를 수강하지 않았기 때문에 txt파일에서 정보를 읽어와 벡터에 저장후 사용하는 방식으로 구현.
 
-고객과 제품은 [cute,sexy,formal,casual]4가지 특성을 갖고 각 특성은 최대 100점의 점수를 갖는다.
-회원가입시 설문조사를 통해 고객의 특성을 파악하고 상품 추천에 사용한다.
-상품구매시 상품의 특성이 고객의 점수에 반영되어 사용자의 선호도를 누적해서 반영한다.
+## Features
+*고객과 제품은 4가지 특성을 갖고 각 특성은 최대 100점의 점수를 갖는다.
+*회원가입시 설문조사를 통해 고객의 특성을 파악하고 상품 추천에 사용한다.
+*상품구매시 상품의 특성이 고객의 점수에 반영되어 사용자의 선호도를 누적해서 반영한다.
+*사용자의 선호도에 따라 추천상품등이 결정된다.
+
+## Developer
+김가림 <br> [https://github.com/garimoo][GITa] <br><br>
+윤재문 <br> [https://github.com/dss1111][GITb] <br><br>
+
+   [GITa]: <https://github.com/garimoo>
+   [GITb]: <https://github.com/dss1111>
+
+# homeshopping
 
 # 프로젝트 기능
 1. 사용자<br>
